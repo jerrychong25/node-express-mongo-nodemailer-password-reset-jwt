@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/generalgmt/RESTfulAPITutorial.git"
+    "url": "git+https://github.com/jerrychong25/node-password-reset-jwt.git"
   },
   "keywords": [
     "RESTful",
@@ -22,12 +22,12 @@
     "JWT",
     "Tutorial"
   ],
-  "author": "olatunde garuba",
-  "license": "ISC",
+  "author": "Jerry Chong",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/generalgmt/RESTfulAPITutorial/issues"
+    "url": "https://github.com/jerrychong25/node-password-reset-jwt/issues"
   },
-  "homepage": "https://github.com/generalgmt/RESTfulAPITutorial#readme",
+  "homepage": "https://github.com/jerrychong25/node-password-reset-jwt",
   "dependencies": {
     "bcrypt": "^3.0.4",
     "body-parser": "^1.15.2",
