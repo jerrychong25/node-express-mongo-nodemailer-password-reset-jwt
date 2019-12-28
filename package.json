@@ -33,7 +33,7 @@
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "jsonwebtoken": "^7.3.0",
-    "mongoose": "^4.13.19",
+    "mongoose": "^5.7.5",
     "nodemailer": "^4.0.1",
     "nodemailer-express-handlebars": "^2.0.0"
   }
