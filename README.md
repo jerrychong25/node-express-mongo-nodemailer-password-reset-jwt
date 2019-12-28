@@ -1,4 +1,4 @@
-# Node.js Back End Web Application with REST API (Express.js), User JWT Authentication & Passport Reset and MongoDB Data Storage (Mongoose.js)
+# Node.js Back End Web Application with REST API, JWT Token Authentication & Passport Reset and MongoDB Data Storage
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ Hosted on local host.
 
 ## Authors
 
-**Chong Hon Fong** - [jerrychong25](https://github.com/jerrychong25)
+**Jerry Chong** - [jerrychong25](https://github.com/jerrychong25)
 
 ## License
 
