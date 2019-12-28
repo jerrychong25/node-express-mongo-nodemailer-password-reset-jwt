@@ -29,10 +29,12 @@
   },
   "homepage": "https://github.com/jerrychong25/node-password-reset-jwt",
   "dependencies": {
+    "async": "^3.1.0",
     "bcrypt": "^3.0.4",
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "jsonwebtoken": "^7.3.0",
+    "lodash": "^4.17.15",
     "mongoose": "^5.7.5",
     "nodemailer": "^4.0.1",
     "nodemailer-express-handlebars": "^2.0.0"
