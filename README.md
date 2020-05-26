@@ -1,5 +1,9 @@
 # Node.js Back End Web Application with REST API, JWT Token Authentication & Passport Reset and MongoDB Data Storage
 
+[![GitHub release](https://img.shields.io/github/release/jerrychong25/node-express-mongo-nodemailer-password-reset-jwt.svg)](https://gitHub.com/jerrychong25/node-express-mongo-nodemailer-password-reset-jwt/releases/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jerrychong25/node-express-mongo-nodemailer-password-reset-jwt/graphs/commit-activity)
+[![HitCount](http://hits.dwyl.com/jerrychong25/node-express-mongo-nodemailer-password-reset-jwt.svg)](http://hits.dwyl.com/jerrychong25/node-express-mongo-nodemailer-password-reset-jwt)
+
 ## Getting Started
 
 This is a Node.js back end web application, which features REST API interface via Express.js, user JWT authentication & password reset, and MongoDB data storage via Mongoose.js.
