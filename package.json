@@ -30,7 +30,7 @@
   "homepage": "https://github.com/jerrychong25/node-password-reset-jwt",
   "dependencies": {
     "async": "^3.1.0",
-    "bcrypt": "^3.0.4",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "hoek": "^4.2.1",
