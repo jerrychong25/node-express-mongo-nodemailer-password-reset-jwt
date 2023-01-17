@@ -34,7 +34,7 @@
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "hoek": "^4.2.1",
-    "jsonwebtoken": "^7.3.0",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
     "mongoose": "^5.7.5",
     "nodemailer": "^6.4.16",
