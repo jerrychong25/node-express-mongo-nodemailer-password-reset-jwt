@@ -36,7 +36,7 @@
     "hoek": "^4.2.1",
     "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
-    "mongoose": "^5.7.5",
+    "mongoose": "^8.9.5",
     "nodemailer": "^6.4.16",
     "nodemailer-express-handlebars": "^5.0.0"
   }
