@@ -38,6 +38,6 @@
     "lodash": "^4.17.15",
     "mongoose": "^8.9.5",
     "nodemailer": "^7.0.7",
-    "nodemailer-express-handlebars": "^5.0.0"
+    "nodemailer-express-handlebars": "^7.0.0"
   }
 }
